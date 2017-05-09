@@ -18,10 +18,10 @@
   "author": "Alex Rhea <alex.rhea@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arhea/node-docker-secrets.git"
+    "url": "https://github.com/EmergingTechnologyAdvisors/node-docker-secrets.git"
   },
   "bugs": {
-    "url": "http://github.com/arhea/node-docker-secrets/issues"
+    "url": "https://github.com/EmergingTechnologyAdvisors/node-docker-secrets/issues"
   },
   "license": "Apache-2.0",
   "engines": {
