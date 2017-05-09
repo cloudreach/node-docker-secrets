@@ -1,6 +1,6 @@
 {
   "name": "docker-sercrets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts Docker Secrets mounted into a container to an object.",
   "keywords": [
     "docker",
