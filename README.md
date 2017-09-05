@@ -9,5 +9,5 @@ npm install docker-secrets
 ## Usage
 ```javascript
 const secrets = require('docker-secrets');
-cosnole.log(secrets);
+console.log(secrets);
 ```
