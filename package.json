@@ -1,6 +1,6 @@
 {
-  "name": "docker-secrets",
-  "version": "1.0.2",
+  "name": "@cloudreach/docker-secrets",
+  "version": "1.0.3",
   "description": "Converts Docker Secrets mounted into a container to an object.",
   "keywords": [
     "docker",
@@ -15,13 +15,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alex Rhea <alex.rhea@gmail.com>",
+  "author": "Alex Rhea <alex.rhea@cloudreach.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EmergingTechnologyAdvisors/node-docker-secrets.git"
+    "url": "https://github.com/cloudreach/node-docker-secrets.git"
   },
   "bugs": {
-    "url": "https://github.com/EmergingTechnologyAdvisors/node-docker-secrets/issues"
+    "url": "https://github.com/cloudreach/node-docker-secrets/issues"
   },
   "license": "Apache-2.0",
   "engines": {

@@ -3,11 +3,11 @@ This NPM module loads Docker secrets from the `/run/secrets` directory created b
 
 ## Installation
 ```bash
-npm install docker-secrets
+npm install @cloudreach/docker-secrets
 ```
 
 ## Usage
 ```javascript
-const secrets = require('docker-secrets');
+const secrets = require('@cloudreach/docker-secrets');
 console.log(secrets);
 ```
