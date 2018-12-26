@@ -11,3 +11,8 @@ npm install @cloudreach/docker-secrets
 const secrets = require('@cloudreach/docker-secrets');
 console.log(secrets);
 ```
+
+## Customization
+
+If the `SECRETS_DIR` environment variable is set, the specified location will be used in stead of `/run/secrets`.
+
